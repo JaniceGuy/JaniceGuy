@@ -1,16 +1,16 @@
-### Hi there 👋
+### 热招 👋 高级NLP产品经理（北京/深圳）
 
-<!--
-**JaniceGuy/JaniceGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+岗位职责：
+1. 负责公司智能交互型数字人相关产品的客户需求分析，产品规划，产品设计，落地执行和迭代；
+2. 与行业客户充分沟通，深入研究客户在不同阶段的产品需求，细分用户意图，设计符合需求的的产品；
+3. 产品的构架设计，研发需求沟通优先级规划，产品执行落地推动，交付迭代。
 
-Here are some ideas to get you started:
+任职要求：
+1. 本科以上学历，研究生优先，计算机或相关专业；
+2. 3年以上产品经验，有NLP和对话服务产品方向经验，搭建过 NLP 算法平台优先；
+3. 具有良好学习能力和自我驱动力，主动去学习业务和提出优化点；
+4. 有突出的沟通能力，有多部门协同的项目经验；
+5. 具备较强的逻辑分析能力和产品设计能力，善于数据驱动进行产品优化升级；
+6. 有智能音箱/智能语音交互完整产品设计开发经验优先，ToB 产品和客户经验优先。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+【简历可发邮件联系我，谢谢！】
